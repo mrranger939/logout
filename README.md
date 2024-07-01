@@ -6,7 +6,7 @@ This project challenges users to log out by clicking on a moving button that tri
 
 ## Demo
 
-You can see the live demo [here](link-to-your-live-demo).
+You can see the live demo [here](https://mrranger939.github.io/logout/).
 
 ## Features
 
